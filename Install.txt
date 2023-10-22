@@ -1,0 +1,4 @@
+1. Import database database.sql
+2. Upload folder File to your hosting
+3. Edit file ../core/.env and change info your domain and database
+4. Run youdomain.com/install
