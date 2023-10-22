@@ -39,4 +39,5 @@ class FileTypeValidate implements Rule
     {
         return ':attribute file type is not supported.';
     }
+    
 }
